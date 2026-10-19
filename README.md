@@ -89,7 +89,7 @@ Looking at how invoices move through a small company and where the manual steps 
 <tr>
 <td width="50%" valign="top">
 
-**🎓 MBA thesis: AI and brand value in M&A**
+**🎓 [MBA thesis: AI and brand value in M&A](https://opus4.kobv.de/opus4-fhws/frontdoor/deliver/index/docId/6594/file/Masterarbeit_Rajendra.pdf)**
 <br>
 How AI-driven methods could help put a number on a brand when one company buys another. Brands are hard to value, which is exactly why it was interesting.
 
