@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/ramyarajendra/?isSelfProfile=true)/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ramyarajendra/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:ramyareddy9488@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://ramya-rajendra.github.io/ramya-portfolio/"><img src="https://img.shields.io/badge/Portfolio-C77DFF?style=for-the-badge&logo=githubpages&logoColor=black" /></a>
 </p>
@@ -106,7 +106,7 @@ Plain HTML and CSS, built by me. Also, once upon a time, a prize at a GitHub hac
 
 ---
 
-**Have a process that everyone complains about but nobody has written down?** That's the kind of problem I like. [Say hello](mailto:YOUR-EMAIL@gmail.com).
+**Have a process that everyone complains about but nobody has written down?** That's the kind of problem I like. [Say hello](mailto:ramyareddy9488@gmail.com).
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ramya-rajendra&style=flat-square&color=C77DFF&label=visitors" />
