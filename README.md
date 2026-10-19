@@ -1,116 +1,156 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:3d2c5e,100:c77dff&height=200&section=header&text=Ramya%20Rajendra&fontSize=52&fontColor=ffffff&fontAlignY=34&animation=fadeIn&desc=Engineer%20by%20degree%2C%20analyst%20by%20habit&descAlignY=54&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:3d2c5e,100:c77dff&height=230&section=header&text=Ramya%20Rajendra&fontSize=56&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=Business%20%E2%80%A2%20Process%20%E2%80%A2%20Data&descAlignY=56&descSize=18" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=22&pause=1200&color=C77DFF&center=true&vCenter=true&width=680&lines=Computer+Science+first%2C+then+an+MBA.;I+like+the+space+between+business+and+tech.;Messy+process+%E2%86%92+clear+requirements+%E2%86%92+data.;Based+in+W%C3%BCrzburg%2C+open+to+all+of+Germany." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&pause=1100&color=C77DFF&center=true&vCenter=true&width=720&lines=Computer+Science+first%2C+then+an+MBA.;I+look+for+where+processes+lose+time.;1.6M+real+events.+64+days+to+get+paid.;Open+to+analyst+roles+across+Germany+%F0%9F%87%A9%F0%9F%87%AA" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ramyarajendra/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:ramyareddy9488@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://ramya-rajendra.github.io/ramya-portfolio/"><img src="https://img.shields.io/badge/Portfolio-C77DFF?style=for-the-badge&logo=githubpages&logoColor=black" /></a>
+  <a href="https://github.com/ramya-rajendra/ramya-portfolio"><img src="https://img.shields.io/badge/Portfolio-C77DFF?style=for-the-badge&logo=githubpages&logoColor=black" /></a>
+  <img src="https://img.shields.io/badge/📍_Würzburg-1a1a2e?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ramya-rajendra&style=flat-square&color=C77DFF&label=profile+views" />
+  <img src="https://img.shields.io/github/followers/ramya-rajendra?style=flat-square&color=C77DFF&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/status-open_to_work-2A9D8F?style=flat-square&labelColor=1a1a2e" />
 </p>
 
 ---
 
-### `whoami`
+### `> whoami`
 
 ```sql
-SELECT *
+SELECT name, base, education, started_as, speaks, looking_for
 FROM   people
-WHERE  name = 'Ramya Rajendra';
+WHERE  github = 'ramya-rajendra';
+```
 
--- location    : Würzburg, Germany 🇩🇪
--- education   : MBA International Business, THWS (2025)
---               B.E. Computer Science, India
--- started_as  : Marketing analyst at a food products company in India
--- speaks      : Telugu, English, German (getting there)
--- looking_for : Business / Product / Marketing Analyst roles
+| name | base | education | started_as | speaks | looking_for |
+|---|---|---|---|---|---|
+| Ramya Rajendra | Würzburg 🇩🇪 | B.E. CS (India) · MBA Int. Business, THWS (2025) | Marketing analyst, India | Telugu, English, Deutsch (in progress) | Business / Product / Marketing Analyst |
+
+```text
+(1 row)
 ```
 
 ---
 
-### The long way round
+### 🧭 The long way round
 
-I studied computer science, then spent time on the marketing side looking at sales and customer numbers, then did an MBA in Germany. Somewhere along the way I realised the part I enjoy most is the translation work: sitting with the people who run a process, understanding what actually goes wrong, and turning that into something a developer or a manager can act on.
-
+```mermaid
+flowchart LR
+    A["💻 Computer Science<br/><i>how systems work</i>"] --> B["📈 Marketing Analyst<br/><i>what the numbers say</i>"]
+    B --> C["🎓 MBA @ THWS<br/><i>how businesses decide</i>"]
+    C --> D["🔍 Process & Data Analysis<br/><i>where time and money leak</i>"]
+    style A fill:#1a1a2e,stroke:#c77dff,color:#fff
+    style B fill:#1a1a2e,stroke:#c77dff,color:#fff
+    style C fill:#1a1a2e,stroke:#c77dff,color:#fff
+    style D fill:#3d2c5e,stroke:#c77dff,color:#fff
 ```
-┌──────────────┐      ┌──────────────┐      ┌──────────────┐
-│   COMPUTER   │ ───▶ │  MARKETING   │ ───▶ │     MBA      │
-│   SCIENCE    │      │   ANALYST    │      │  @ THWS 🇩🇪   │
-└──────────────┘      └──────────────┘      └──────────────┘
-   India                 India               Würzburg
- "how systems work"   "what the numbers     "how businesses
-                        are telling us"       decide"
-```
 
-<p>
-  <img src="https://img.shields.io/badge/Business_Analysis-C77DFF?style=flat-square&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/Process_Modelling-7B9EF0?style=flat-square&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/SQL_%26_Data-F4A261?style=flat-square&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/Marketing_Analytics-2A9D8F?style=flat-square&labelColor=1a1a2e" />
-</p>
+The part I enjoy most is the translation work: sitting with the people who run a process, understanding what actually goes wrong, and turning it into something a developer or a manager can act on.
 
 ---
 
-### Toolbox
+### 🚀 Featured project: purchase-to-pay on real data
+
+<a href="https://github.com/ramya-rajendra/p2p-real-data-analysis">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramya-rajendra&repo=p2p-real-data-analysis&theme=tokyonight&hide_border=true&title_color=C77DFF&icon_color=C77DFF&border_radius=10" />
+</a>
+
+1.6 million process steps from a large multinational's BPI Challenge 2019 event log. What came out:
 
 | | |
 |---|---|
-| **Data** | <img src="https://skillicons.dev/icons?i=py" /> <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="40" /> <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" height="40" /> <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=databricks&logoColor=white" height="40" /> <img src="https://img.shields.io/badge/matplotlib-11557C?style=for-the-badge&logoColor=white" height="40" /> |
-| **Web** | <img src="https://skillicons.dev/icons?i=html,css,js" /> |
-| **Daily drivers** | <img src="https://skillicons.dev/icons?i=git,github,vscode" /> <img src="https://img.shields.io/badge/conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" height="40" /> |
+| ⏱️ **64 days** | median time from vendor invoice to payment |
+| 📥 **10 days** | before an invoice is even recorded in the system |
+| 🚧 **27.6%** | of paid cases hit a payment block (+10 days) |
+| ❌ **+28 days** | extra when an invoice gets cancelled |
+| 🏢 **31%** | of all paid cases come from just 10 vendors |
+| 🤖 **73%** | of payment block releases still done by hand |
+
+<details>
+<summary><b>What I'd recommend to the company</b></summary>
+<br>
+
+1. Get the payment terms per vendor and check how much early-payment discount is being lost
+2. Automate payment block releases when goods receipt and invoice match, starting with the top vendors
+3. Talk to the three vendors with the highest block rates about the root cause
+4. Track invoice-to-record time as a KPI
+
+</details>
 
 ---
 
-### Things I built
+### 🗂️ More things I built
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<p>
+  <a href="https://github.com/ramya-rajendra/invoice_automation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramya-rajendra&repo=invoice_automation&theme=tokyonight&hide_border=true&title_color=C77DFF&icon_color=C77DFF&border_radius=10" width="49%" />
+  </a>
+  <a href="https://github.com/ramya-rajendra/ramya-portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ramya-rajendra&repo=ramya-portfolio&theme=tokyonight&hide_border=true&title_color=C77DFF&icon_color=C77DFF&border_radius=10" width="49%" />
+  </a>
+</p>
 
-**📊 [Purchase-to-pay on real data](https://github.com/ramya-rajendra/p2p-real-data-analysis)**
+<details>
+<summary><b>🎓 MBA thesis: AI and brand value in M&A</b></summary>
 <br>
-1.6 million real process events from a large multinational. Median 64 days from invoice to payment, payment blocks on more than a quarter of cases, and most block releases still done by hand. Python, pandas and SQL in DuckDB.
 
-</td>
-<td width="50%" valign="top">
-
-**🧾 [Invoice automation](https://github.com/ramya-rajendra/invoice_automation)**
-<br>
-My first process project, on synthetic data: how invoices move through a company, where the manual steps eat time, and simple routing logic to cut them down.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🎓 [MBA thesis: AI and brand value in M&A](https://opus4.kobv.de/opus4-fhws/frontdoor/deliver/index/docId/6594/file/Masterarbeit_Rajendra.pdf)**
-<br>
 How AI-driven methods could help put a number on a brand when one company buys another. Brands are hard to value, which is exactly why it was interesting.
 
-</td>
-<td width="50%" valign="top">
+📄 [Read the thesis (PDF)](https://opus4.kobv.de/opus4-fhws/frontdoor/deliver/index/docId/6594/file/Masterarbeit_Rajendra.pdf)
 
-**🌐 [Portfolio site](https://github.com/ramya-rajendra/ramya-portfolio)**
+</details>
+
+<details>
+<summary><b>🏆 GitHub hackathon</b></summary>
 <br>
-Plain HTML and CSS, built by me. Also, once upon a time, a prize at a GitHub hackathon 🏆
 
-</td>
-</tr>
-</table>
+Won a prize at a GitHub hackathon, back in my Computer Science days.
+
+</details>
 
 ---
 
-**Have a process that everyone complains about but nobody has written down?** That's the kind of problem I like. [Say hello](mailto:ramyareddy9488@gmail.com).
+### 🧰 Toolbox
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ramya-rajendra&style=flat-square&color=C77DFF&label=visitors" />
+  <img src="https://skillicons.dev/icons?i=py,html,css,js,git,github,vscode&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/matplotlib-11557C?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ramya-rajendra&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&icon_color=C77DFF&title_color=C77DFF&count_private=true" height="165" />
+  <img src="https://streak-stats.demolab.com?user=ramya-rajendra&theme=tokyonight&hide_border=true&border_radius=10&ring=C77DFF&fire=C77DFF&currStreakLabel=C77DFF" height="165" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramya-rajendra&theme=tokyo-night&hide_border=true&radius=10&color=C77DFF&line=C77DFF&point=FFFFFF&area=true&area_color=3d2c5e" width="95%" />
+</p>
+
+---
+
+<p align="center">
+  <b>Have a process that everyone complains about but nobody has written down?</b><br/>
+  That's the kind of problem I like. <a href="mailto:ramyareddy9488@gmail.com">Say hello</a> 👋
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c77dff,50:3d2c5e,100:1a1a2e&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c77dff,50:3d2c5e,100:1a1a2e&height=120&section=footer" width="100%" />
 </p>
