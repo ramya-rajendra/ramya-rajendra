@@ -109,7 +109,7 @@ flowchart LR
 | | |
 |---|---|
 | **MBA, International Business** | THWS Würzburg-Schweinfurt, 2025 |
-| **B.E., Computer Science** | India |
+| **B.E., Computer Science** | Visvesvaraya Technological University (VTU), India |
 | **Jubior Business analyst** | Sri Guru Raghavendra Food Products, India |
 | **Hackathon** | Prize winner at a GitHub hackathon |
 | **Languages** | Telugu, English, German (intermediate) |
