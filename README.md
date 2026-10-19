@@ -60,10 +60,9 @@ I studied computer science, then spent time on the marketing side looking at sal
 
 | | |
 |---|---|
-| **Data** | <img src="https://skillicons.dev/icons?i=py,mysql,postgres" /> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="40" /> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="40" /> |
-| **Process & docs** | <img src="https://img.shields.io/badge/BPMN-3d2c5e?style=for-the-badge&logoColor=white" height="40" /> <img src="https://skillicons.dev/icons?i=notion,figma" /> |
+| **Data** | <img src="https://skillicons.dev/icons?i=py" /> <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="40" /> <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" height="40" /> <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=databricks&logoColor=white" height="40" /> <img src="https://img.shields.io/badge/matplotlib-11557C?style=for-the-badge&logoColor=white" height="40" /> |
 | **Web** | <img src="https://skillicons.dev/icons?i=html,css,js" /> |
-| **Daily drivers** | <img src="https://skillicons.dev/icons?i=git,github,vscode" /> |
+| **Daily drivers** | <img src="https://skillicons.dev/icons?i=git,github,vscode" /> <img src="https://img.shields.io/badge/conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" height="40" /> |
 
 ---
 
@@ -73,16 +72,16 @@ I studied computer science, then spent time on the marketing side looking at sal
 <tr>
 <td width="50%" valign="top">
 
-**📋 [Business analysis case study](https://github.com/ramya-rajendra/YOUR-BA-PROJECT)**
+**📊 [Purchase-to-pay on real data](https://github.com/ramya-rajendra/p2p-real-data-analysis)**
 <br>
-Took one business process apart end to end: as-is model, pain points, requirements, to-be process, and SQL to check whether the numbers back up the story.
+1.6 million real process events from a large multinational. Median 64 days from invoice to payment, payment blocks on more than a quarter of cases, and most block releases still done by hand. Python, pandas and SQL in DuckDB.
 
 </td>
 <td width="50%" valign="top">
 
-**🧾 [Invoice automation](https://github.com/ramya-rajendra/YOUR-INVOICE-REPO)**
+**🧾 [Invoice automation](https://github.com/ramya-rajendra/invoice_automation)**
 <br>
-Looking at how invoices move through a small company and where the manual steps eat time. Less about the tool, more about the process around it.
+My first process project, on synthetic data: how invoices move through a company, where the manual steps eat time, and simple routing logic to cut them down.
 
 </td>
 </tr>
