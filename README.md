@@ -13,7 +13,7 @@
 
 Most companies already know their processes are slow. What they usually don't know is **where** the time goes and **which fix pays off first**. That's the work I like: mapping a process step by step, checking it against the data, and turning it into a short list of changes with a number attached.
 
-I studied Computer Science in India, worked as a marketing analyst, and then did an MBA in International Business at THWS in Würzburg. So I'm at home on both sides: talking to the people who run a process, and working with the data behind it.
+I studied Computer Science in India, worked as a Business analyst, and then did an MBA in International Business at THWS in Würzburg. So I'm at home on both sides: talking to the people who run a process, and working with the data behind it.
 
 <br>
 
@@ -110,7 +110,7 @@ flowchart LR
 |---|---|
 | **MBA, International Business** | THWS Würzburg-Schweinfurt, 2025 |
 | **B.E., Computer Science** | India |
-| **Marketing analyst** | Sri Guru Raghavendra Food Products, India |
+| **Jubior Business analyst** | Sri Guru Raghavendra Food Products, India |
 | **Hackathon** | Prize winner at a GitHub hackathon |
 | **Languages** | Telugu, English, German (intermediate) |
 
