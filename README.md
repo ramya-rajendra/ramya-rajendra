@@ -154,7 +154,7 @@ flowchart LR
 ---
 
 <p align="center">
-  Looking for business, process and finance analyst roles anywhere in Germany.<br>
-  If you work in this field, or have a process everyone complains about but nobody has measured, <a href="mailto:ramyareddy9488@gmail.com">I'd like to hear from you</a>.<br><br>
+  Whether it's a process, a financial report or a product decision, I like turning business questions into clear answers backed by data.<br>
+  If that's your world too, <a href="mailto:ramyareddy9488@gmail.com">I'd be glad to connect</a>.<br><br>
   <a href="https://www.linkedin.com/in/ramyarajendra/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-1C2740?logo=linkedin&logoColor=white&style=for-the-badge" alt="Connect on LinkedIn" /></a>
 </p>
