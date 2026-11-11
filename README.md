@@ -143,44 +143,30 @@ flowchart LR
 
 ## Toolbox
 
-<table>
+<table align="center">
 <tr>
-<td><b>Finance&nbsp;&amp;&nbsp;SAP</b></td>
-<td>
-  <img src="https://img.shields.io/badge/SAP_Analytics_Cloud-0FAAFF?logo=sap&logoColor=white&style=for-the-badge" alt="SAP Analytics Cloud" />
-</td>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="Python" /><br/><sub>Python</sub></td>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="40" alt="pandas" /><br/><sub>pandas</sub></td>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" /><br/><sub>Jupyter</sub></td>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="40" alt="matplotlib" /><br/><sub>matplotlib</sub></td>
+<td align="center" width="110"><img src="https://cdn.simpleicons.org/googlebigquery/669DF6" height="40" alt="BigQuery" /><br/><sub>BigQuery</sub></td>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" alt="MySQL" /><br/><sub>MySQL</sub></td>
 </tr>
 <tr>
-<td><b>Data&nbsp;&amp;&nbsp;Analytics</b></td>
-<td>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python" />
-  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" alt="pandas" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/BigQuery-669DF6?logo=googlebigquery&logoColor=white&style=for-the-badge" alt="BigQuery" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL" />
-  <img src="https://img.shields.io/badge/DuckDB-FFF000?logo=duckdb&logoColor=black&style=for-the-badge" alt="DuckDB" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge" alt="Excel" />
-  <img src="https://img.shields.io/badge/matplotlib-11557C?style=for-the-badge" alt="matplotlib" />
-</td>
+<td align="center" width="110"><img src="https://cdn.simpleicons.org/duckdb/FFC500" height="40" alt="DuckDB" /><br/><sub>DuckDB</sub></td>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite" /><br/><sub>SQLite</sub></td>
+<td align="center" width="110"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI" /><br/><sub>Power BI</sub></td>
+<td align="center" width="110"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Microsoft_Office_Excel_%282013%E2%80%932019%29.svg" height="40" alt="Excel" /><br/><sub>Excel</sub></td>
+<td align="center" width="110"><img src="https://cdn.simpleicons.org/sap/0FAAFF" height="40" alt="SAP Analytics Cloud" /><br/><sub>SAP Analytics Cloud</sub></td>
+<td align="center" width="110"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Celonis_Logo.png" height="40" alt="Celonis" /><br/><sub>Celonis</sub></td>
 </tr>
 <tr>
-<td><b>Process</b></td>
-<td>
-  <img src="https://img.shields.io/badge/Celonis-1A1A1A?style=for-the-badge" alt="Celonis" />
-  <img src="https://img.shields.io/badge/BPMN-FF6A00?style=for-the-badge" alt="BPMN" />
-</td>
-</tr>
-<tr>
-<td><b>Collaboration</b></td>
-<td>
-  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge" alt="Jira" />
-  <img src="https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=white&style=for-the-badge" alt="Confluence" />
-  <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge" alt="Microsoft 365" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" />
-</td>
+<td align="center" width="110"><img src="https://api.iconify.design/tabler/sitemap.svg?color=%23FF6A00" height="40" alt="BPMN" /><br/><sub>BPMN</sub></td>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" height="40" alt="Jira" /><br/><sub>Jira</sub></td>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original.svg" height="40" alt="Confluence" /><br/><sub>Confluence</sub></td>
+<td align="center" width="110"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_365_%282022%29.svg" height="40" alt="Microsoft 365" /><br/><sub>Microsoft 365</sub></td>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="Git" /><br/><sub>Git</sub></td>
+<td align="center" width="110"><img src="https://cdn.simpleicons.org/github/181717/white" height="40" alt="GitHub" /><br/><sub>GitHub</sub></td>
 </tr>
 </table>
 
@@ -189,6 +175,7 @@ flowchart LR
 ---
 
 <p align="center">
-  Whether it's a process, a financial report or a product decision, I like turning business questions into clear answers backed by data.<br>
-  If that's your world too, <a href="mailto:ramyareddy9488@gmail.com">I'd be glad to connect</a>.
+  <b>Into processes, data and better business decisions? Let's talk.</b><br><br>
+  <a href="https://www.linkedin.com/in/ramyarajendra/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:ramyareddy9488@gmail.com"><img src="https://img.shields.io/badge/Email_me-EA4335?logo=gmail&logoColor=white&style=for-the-badge" alt="Email me" /></a>
 </p>
