@@ -141,18 +141,48 @@ flowchart LR
 | **Hackathon** | Prize winner at a GitHub hackathon |
 | **Languages** | English, German (intermediate), Kannada, Telugu |
 
-<p>
+## Toolbox
+
+<table>
+<tr>
+<td><b>Finance&nbsp;&amp;&nbsp;SAP</b></td>
+<td>
+  <img src="https://img.shields.io/badge/SAP_Analytics_Cloud-0FAAFF?logo=sap&logoColor=white&style=for-the-badge" alt="SAP Analytics Cloud" />
+</td>
+</tr>
+<tr>
+<td><b>Data&nbsp;&amp;&nbsp;Analytics</b></td>
+<td>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python" />
   <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" alt="pandas" />
-  <img src="https://img.shields.io/badge/SQL-003B57?logo=sqlite&logoColor=white&style=for-the-badge" alt="SQL" />
-  <img src="https://img.shields.io/badge/DuckDB-FFF000?logo=duckdb&logoColor=black&style=for-the-badge" alt="DuckDB" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge" alt="Jupyter" />
   <img src="https://img.shields.io/badge/BigQuery-669DF6?logo=googlebigquery&logoColor=white&style=for-the-badge" alt="BigQuery" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge" alt="Excel" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL" />
+  <img src="https://img.shields.io/badge/DuckDB-FFF000?logo=duckdb&logoColor=black&style=for-the-badge" alt="DuckDB" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" alt="SQLite" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge" alt="Excel" />
   <img src="https://img.shields.io/badge/matplotlib-11557C?style=for-the-badge" alt="matplotlib" />
-  <img src="https://img.shields.io/badge/Process_mapping-FF3670?logo=mermaid&logoColor=white&style=for-the-badge" alt="Process mapping" />
+</td>
+</tr>
+<tr>
+<td><b>Process</b></td>
+<td>
+  <img src="https://img.shields.io/badge/Celonis-1A1A1A?style=for-the-badge" alt="Celonis" />
+  <img src="https://img.shields.io/badge/BPMN-FF6A00?style=for-the-badge" alt="BPMN" />
+</td>
+</tr>
+<tr>
+<td><b>Collaboration</b></td>
+<td>
+  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge" alt="Jira" />
+  <img src="https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=white&style=for-the-badge" alt="Confluence" />
+  <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge" alt="Microsoft 365" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git" />
-</p>
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" />
+</td>
+</tr>
+</table>
 
 <br>
 
