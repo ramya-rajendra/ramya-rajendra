@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=20&pause=1300&color=E0A030&center=true&vCenter=true&width=640&lines=Where+does+the+time+go%3F;Which+fix+pays+off+first%3F;Every+recommendation+comes+with+a+number" alt="Where does the time go? Which fix pays off first?" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=20&pause=1300&color=E0A030&center=true&vCenter=true&width=640&lines=From+raw+data+to+clear+decisions;Python+%C2%B7+SQL+%C2%B7+Excel+%C2%B7+Power+BI;Based+in+W%C3%BCrzburg%2C+Germany" alt="From raw data to clear decisions" />
 </p>
 
 <p align="center">
