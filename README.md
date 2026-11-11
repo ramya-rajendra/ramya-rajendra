@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=20&pause=1300&color=E0A030&center=true&vCenter=true&width=640&lines=From+raw+data+to+clear+decisions;Python+%C2%B7+SQL+%C2%B7+Excel+%C2%B7+Power+BI;Based+in+W%C3%BCrzburg%2C+Germany" alt="From raw data to clear decisions" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=20&pause=1300&color=E0A030&center=true&vCenter=true&width=720&lines=From+business+need+to+PRD+to+tech+mapping" alt="From business need to PRD to tech mapping" />
 </p>
 
 <p align="center">
@@ -139,7 +139,7 @@ flowchart LR
 | **B.E., Computer Science** | Visvesvaraya Technological University (VTU), India |
 | **Junior Business Analyst** | Sri Guru Raghavendra Food Products, India |
 | **Hackathon** | Prize winner at a GitHub hackathon |
-| **Languages** | Telugu, English, German (intermediate) |
+| **Languages** | English, German (intermediate), Kannada, Telugu |
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python" />
