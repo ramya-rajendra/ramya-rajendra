@@ -122,24 +122,59 @@ flowchart LR
 
 ## More work
 
-| | |
-|---|---|
-| **[Invoice processing](https://github.com/ramya-rajendra/invoice_automation)** | Process analysis and automation prototype that found about €247k a year in lost early-payment discount |
-| **[Master's thesis](https://opus4.kobv.de/opus4-fhws/frontdoor/index/index/docId/6594)** &nbsp;([PDF](https://opus4.kobv.de/opus4-fhws/frontdoor/deliver/index/docId/6594/file/Masterarbeit_Rajendra.pdf)) | How AI-driven methods could help value a brand when one company buys another |
-| **[Portfolio website](https://ramya-rajendra.github.io/ramya-portfolio/)** &nbsp;([code](https://github.com/ramya-rajendra/ramya-portfolio)) | My work in one place, built with HTML and CSS |
-| **[All repositories](https://github.com/ramya-rajendra?tab=repositories)** | Every project, including earlier and smaller work |
+<table>
+<tr>
+<td width="50%" valign="top">
+<img src="https://api.iconify.design/tabler/receipt-euro.svg?color=%23E0A030" height="32" alt="" /><br/>
+<b><a href="https://github.com/ramya-rajendra/invoice_automation">Invoice processing</a></b><br/>
+<sub>Process analysis and automation prototype that found about €247k a year in lost early-payment discount</sub>
+</td>
+<td width="50%" valign="top">
+<img src="https://api.iconify.design/tabler/book.svg?color=%2312A594" height="32" alt="" /><br/>
+<b><a href="https://opus4.kobv.de/opus4-fhws/frontdoor/index/index/docId/6594">Master's thesis</a></b> &nbsp;<sub>(<a href="https://opus4.kobv.de/opus4-fhws/frontdoor/deliver/index/docId/6594/file/Masterarbeit_Rajendra.pdf">PDF</a>)</sub><br/>
+<sub>How AI-driven methods could help value a brand when one company buys another</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<img src="https://api.iconify.design/tabler/world-www.svg?color=%231F3A68" height="32" alt="" /><br/>
+<b><a href="https://ramya-rajendra.github.io/ramya-portfolio/">Portfolio website</a></b> &nbsp;<sub>(<a href="https://github.com/ramya-rajendra/ramya-portfolio">code</a>)</sub><br/>
+<sub>My work in one place, built with HTML and CSS</sub>
+</td>
+<td width="50%" valign="top">
+<img src="https://api.iconify.design/tabler/folders.svg?color=%235B8DEF" height="32" alt="" /><br/>
+<b><a href="https://github.com/ramya-rajendra?tab=repositories">All repositories</a></b><br/>
+<sub>Every project, including earlier and smaller work</sub>
+</td>
+</tr>
+</table>
 
 <br>
 
 ## Background
 
-| | |
-|---|---|
-| **Master in International Business** | THWS Würzburg-Schweinfurt, 2025 |
-| **B.E., Computer Science** | Visvesvaraya Technological University (VTU), India |
-| **Junior Business Analyst** | Sri Guru Raghavendra Food Products, India |
-| **Hackathon** | Prize winner at a GitHub hackathon |
-| **Languages** | English, German (intermediate), Kannada, Telugu |
+<table align="center">
+<tr>
+<td align="center" width="220"><img src="https://api.iconify.design/tabler/device-laptop.svg?color=%233776AB" height="40" alt="" /><br/><b>B.E. Computer Science</b><br/><sub>Visvesvaraya Technological University (VTU), India</sub></td>
+<td align="center"><img src="https://api.iconify.design/tabler/arrow-right.svg?color=%238693AD" height="24" alt="then" /></td>
+<td align="center" width="220"><img src="https://api.iconify.design/tabler/briefcase.svg?color=%23E0A030" height="40" alt="" /><br/><b>Junior Business Analyst</b><br/><sub>Sri Guru Raghavendra Food Products, India</sub></td>
+<td align="center"><img src="https://api.iconify.design/tabler/arrow-right.svg?color=%238693AD" height="24" alt="then" /></td>
+<td align="center" width="220"><img src="https://api.iconify.design/tabler/school.svg?color=%2312A594" height="40" alt="" /><br/><b>Master in International Business</b><br/><sub>THWS Würzburg-Schweinfurt, 2025</sub></td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Hackathon-Prize_winner_at_a_GitHub_hackathon-E0A030?style=flat-square&logo=github&logoColor=white&labelColor=14213D" alt="Prize winner at a GitHub hackathon" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/English-1F3A68?style=flat-square" alt="English" />
+  <img src="https://img.shields.io/badge/German-intermediate-1F3A68?style=flat-square&labelColor=1F3A68&color=5B8DEF" alt="German, intermediate" />
+  <img src="https://img.shields.io/badge/Kannada-1F3A68?style=flat-square" alt="Kannada" />
+  <img src="https://img.shields.io/badge/Telugu-1F3A68?style=flat-square" alt="Telugu" />
+</p>
+
+<br>
 
 ## Toolbox
 
