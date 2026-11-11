@@ -6,50 +6,104 @@
   <a href="https://www.linkedin.com/in/ramyarajendra/"><img src="https://img.shields.io/badge/LinkedIn-ramyarajendra-1C2740?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=1C2740&color=2B3A5C" alt="LinkedIn" /></a>
   <a href="mailto:ramyareddy9488@gmail.com"><img src="https://img.shields.io/badge/Email-ramyareddy9488%40gmail.com-1C2740?logo=gmail&logoColor=white&style=for-the-badge&labelColor=1C2740&color=2B3A5C" alt="Email" /></a>
   <a href="https://ramya-rajendra.github.io/ramya-portfolio/"><img src="https://img.shields.io/badge/Portfolio-website-1C2740?logo=githubpages&logoColor=white&style=for-the-badge&labelColor=1C2740&color=2B3A5C" alt="Portfolio website" /></a>
-  <a href="https://opus4.kobv.de/opus4-fhws/frontdoor/index/index/docId/6594"><img src="https://img.shields.io/badge/MBA_thesis-THWS-1C2740?logo=bookstack&logoColor=white&style=for-the-badge&labelColor=1C2740&color=2B3A5C" alt="MBA thesis" /></a>
+  <a href="https://opus4.kobv.de/opus4-fhws/frontdoor/index/index/docId/6594"><img src="https://img.shields.io/badge/Master's_thesis-THWS-1C2740?logo=bookstack&logoColor=white&style=for-the-badge&labelColor=1C2740&color=2B3A5C" alt="Master's thesis" /></a>
 </p>
 
 <br>
 
+## About
+
 Most companies already know their processes are slow. What they usually don't know is **where** the time goes and **which fix pays off first**. That's the work I like: mapping a process step by step, checking it against the data, and turning it into a short list of changes with a number attached.
 
-I studied Computer Science in India, worked as a Business analyst, and then did an MBA in International Business at THWS in Würzburg. So I'm at home on both sides: talking to the people who run a process, and working with the data behind it.
+I studied Computer Science in India, worked as a junior business analyst, and then did a Master in International Business at THWS in Würzburg. So I'm at home on both sides: talking to the people who run a process, and working with the data behind it.
+
+| | |
+|---|---|
+| **Focus** | Process analysis, finance and reporting, product analytics |
+| **Location** | Würzburg, Germany |
+| **Languages** | English, Telugu, German (intermediate) |
 
 <br>
 
-## Case study 1 &nbsp;·&nbsp; Invoice processing: from process analysis to EBIT impact
+## Background
 
-**[invoice_automation](https://github.com/ramya-rajendra/invoice_automation)** &nbsp;|&nbsp; Python, pandas, SQL (SQLite), process mapping, Claude API prototype
-
-A mid-sized German manufacturer handles about 12,000 supplier invoices a year, mostly by hand. I mapped the as-is process, analysed a year of invoice data, designed a to-be process and built a small prototype. The company and data are fictional, so the numbers show the method.
-
-<table>
-<tr>
-<td width="55%"><img src="https://github.com/ramya-rajendra/invoice_automation/raw/main/images/as_is_vs_to_be.png" alt="As-is versus to-be KPIs" /></td>
-<td width="45%">
-
-| | As-is | To-be |
-|---|---|---|
-| Cycle time | 9.0 days | **4.6 days** |
-| Discount paid in time | 67% | **95%** |
-| Skonto lost / year | €239k | **€51k** |
-| Cost per invoice | €15.06 | **€10.12** |
-
-**Estimated EBIT effect: about €247k per year.** Even with conservative assumptions it stays around €186k.
-
-</td>
-</tr>
-</table>
-
-The surprising part: the biggest cost wasn't clerk time, it was lost early-payment discount. And almost half of it came from invoices that matched perfectly but simply waited, first in the entry backlog and then for the weekly payment run.
+```mermaid
+flowchart LR
+    A["B.E. Computer Science<br/>VTU, India"] --> B["Junior Business Analyst<br/>Sri Guru Raghavendra Food Products"]
+    B --> C["Master in International Business<br/>THWS Würzburg-Schweinfurt, 2025"]
+    C --> D["Process, finance and<br/>product analysis projects"]
+    style A fill:#2B3A5C,stroke:#8693AD,color:#EEF1F7
+    style B fill:#2B3A5C,stroke:#8693AD,color:#EEF1F7
+    style C fill:#2B3A5C,stroke:#8693AD,color:#EEF1F7
+    style D fill:#1C2740,stroke:#F2A541,color:#F2A541
+```
 
 <br>
 
-## Case study 2 &nbsp;·&nbsp; Purchase-to-pay on real company data
+## Tools and methods
+
+| Area | Used in my projects |
+|---|---|
+| **Analysis** | Python, pandas, Jupyter |
+| **Data** | SQL: DuckDB, SQLite, Google BigQuery |
+| **Reporting** | Excel, Power BI, matplotlib |
+| **Finance** | Group consolidation, currency translation (IAS 21), SAP S/4HANA Group Reporting concepts |
+| **Process** | Process mapping, process mining, KPI design, business cases |
+| **Product** | Review and funnel analysis, RICE prioritisation, PRD writing |
+| **Engineering** | Git, automated tests (pytest), HTML/CSS/JS, Claude API |
+
+<br>
+
+## Recent projects
+
+### 01 &nbsp;·&nbsp; Group consolidation with real data: Koenig & Bauer
+
+**[group-consolidation-koenig-bauer](https://github.com/ramya-rajendra/group-consolidation-koenig-bauer)** &nbsp;|&nbsp; Excel, Python, ECB exchange rates, SAP Group Reporting mapping
+
+How do the accounts of 40 separate companies turn into one set of group figures? I rebuilt the main consolidation steps of Koenig & Bauer from its public 2025 annual report, including currency translation, and documented the part public data can't explain instead of forcing it to zero.
+
+```mermaid
+flowchart LR
+    A["Single-entity equity<br/><b>€752.4m</b>"] --> B["Less parent's investments<br/>€415.9m"]
+    B --> C["Plus goodwill<br/>€39.8m"]
+    C --> D["Explained<br/><b>€376.3m</b>"]
+    D --> E["Published group equity<br/><b>€343.1m</b>"]
+    style A fill:#2B3A5C,stroke:#8693AD,color:#EEF1F7
+    style B fill:#2B3A5C,stroke:#8693AD,color:#EEF1F7
+    style C fill:#2B3A5C,stroke:#8693AD,color:#EEF1F7
+    style D fill:#1C2740,stroke:#F2A541,color:#F2A541
+    style E fill:#2B3A5C,stroke:#8693AD,color:#EEF1F7
+```
+
+| Finding | |
+|---|---|
+| Consolidation units | **40**, in 13 currencies |
+| Remaining gap, documented | **–€33.2m**, mainly holdings between subsidiaries |
+| US subsidiary growth | **+33%** in USD, only **+18%** in EUR |
+
+<br>
+
+### 02 &nbsp;·&nbsp; Zalando app reviews: what users want fixed first
+
+**[zalando-app-review-analysis](https://github.com/ramya-rajendra/zalando-app-review-analysis)** &nbsp;|&nbsp; Python, BigQuery SQL, Power BI, Claude
+
+I tagged 3,000 German Play Store reviews by theme and sentiment, checked them against checkout funnel data, and prioritised the fixes with RICE. The top priority became a PRD and a [clickable prototype](https://ramya-rajendra.github.io/zalando-app-review-analysis/docs/checkout-prototype/). Personal project, not affiliated with Zalando.
+
+<img src="https://github.com/ramya-rajendra/zalando-app-review-analysis/raw/main/dashboard/dashboard.png" alt="Power BI dashboard of Zalando app reviews" width="100%" />
+
+| Finding | |
+|---|---|
+| Reviews analysed | **3,000** |
+| Checkout starts not completed | **about 55%** |
+| Top priority after RICE | **A more reliable checkout** |
+
+<br>
+
+### 03 &nbsp;·&nbsp; Purchase-to-pay on real company data
 
 **[p2p-real-data-analysis](https://github.com/ramya-rajendra/p2p-real-data-analysis)** &nbsp;|&nbsp; Python, pandas, SQL (DuckDB)
 
-To test the same questions on real data, I analysed the BPI Challenge 2019 event log: **1.6 million process steps** from the purchase-to-pay process of a large multinational paint and coatings company.
+I analysed the BPI Challenge 2019 event log: **1.6 million process steps** from the purchase-to-pay process of a large multinational paint and coatings company. Payment blocks were the biggest delay, and most of them are still released by hand.
 
 ```mermaid
 flowchart LR
@@ -67,20 +121,11 @@ flowchart LR
     style G fill:#2B3A5C,stroke:#8693AD,color:#EEF1F7
 ```
 
-<table>
-<tr>
-<td width="50%"><img src="https://github.com/ramya-rajendra/p2p-real-data-analysis/raw/main/images/payment_time_distribution.png" alt="Days from vendor invoice to payment" /></td>
-<td width="50%"><img src="https://github.com/ramya-rajendra/p2p-real-data-analysis/raw/main/images/issue_impact.png" alt="Extra days caused by payment blocks, changes and cancellations" /></td>
-</tr>
-</table>
-
 | Finding | |
 |---|---|
 | Median time from vendor invoice to payment | **64 days** |
-| Paid cases with a payment block | **27.6%**, +10 days |
-| Extra time when an invoice is cancelled | **+28 days** |
-| Share of paid cases from the 10 largest vendors | **31%** |
 | Payment block releases done by hand | **73%** |
+| Share of paid cases from the 10 largest vendors | **31%** |
 
 <details>
 <summary><b>What I'd recommend first</b></summary>
@@ -99,36 +144,17 @@ flowchart LR
 
 | | |
 |---|---|
-| **[MBA thesis](https://opus4.kobv.de/opus4-fhws/frontdoor/index/index/docId/6594)** &nbsp;([PDF](https://opus4.kobv.de/opus4-fhws/frontdoor/deliver/index/docId/6594/file/Masterarbeit_Rajendra.pdf)) | How AI-driven methods could help value a brand when one company buys another |
+| **[Invoice processing](https://github.com/ramya-rajendra/invoice_automation)** | Process analysis and automation prototype: lost early-payment discount worth about €247k EBIT per year |
+| **[Master's thesis](https://opus4.kobv.de/opus4-fhws/frontdoor/index/index/docId/6594)** &nbsp;([PDF](https://opus4.kobv.de/opus4-fhws/frontdoor/deliver/index/docId/6594/file/Masterarbeit_Rajendra.pdf)) | How AI-driven methods could help value a brand when one company buys another |
 | **[Portfolio website](https://ramya-rajendra.github.io/ramya-portfolio/)** &nbsp;([code](https://github.com/ramya-rajendra/ramya-portfolio)) | My work in one place, built with HTML and CSS |
-
-<br>
-
-## Background
-
-| | |
-|---|---|
-| **MBA, International Business** | THWS Würzburg-Schweinfurt, 2025 |
-| **B.E., Computer Science** | Visvesvaraya Technological University (VTU), India |
-| **Jubior Business analyst** | Sri Guru Raghavendra Food Products, India |
-| **Hackathon** | Prize winner at a GitHub hackathon |
-| **Languages** | Telugu, English, German (intermediate) |
-
-<p>
-  <img src="https://img.shields.io/badge/Python-1C2740?logo=python&logoColor=white&style=for-the-badge&labelColor=1C2740&color=2B3A5C" alt="Python" />
-  <img src="https://img.shields.io/badge/pandas-1C2740?logo=pandas&logoColor=white&style=for-the-badge&labelColor=1C2740&color=2B3A5C" alt="pandas" />
-  <img src="https://img.shields.io/badge/SQL-1C2740?logo=sqlite&logoColor=white&style=for-the-badge&labelColor=1C2740&color=2B3A5C" alt="SQL" />
-  <img src="https://img.shields.io/badge/DuckDB-1C2740?logo=duckdb&logoColor=white&style=for-the-badge&labelColor=1C2740&color=2B3A5C" alt="DuckDB" />
-  <img src="https://img.shields.io/badge/matplotlib-1C2740?logoColor=white&style=for-the-badge&labelColor=1C2740&color=2B3A5C" alt="matplotlib" />
-  <img src="https://img.shields.io/badge/Process_mapping-1C2740?logo=mermaid&logoColor=white&style=for-the-badge&labelColor=1C2740&color=2B3A5C" alt="Process mapping" />
-  <img src="https://img.shields.io/badge/Git-1C2740?logo=git&logoColor=white&style=for-the-badge&labelColor=1C2740&color=2B3A5C" alt="Git" />
-</p>
+| **[All repositories](https://github.com/ramya-rajendra?tab=repositories)** | Every project, including smaller and earlier work |
 
 <br>
 
 ---
 
 <p align="center">
-  Looking for business, process and product analyst roles anywhere in Germany.<br>
-  If you have a process everyone complains about but nobody has measured, <a href="mailto:ramyareddy9488@gmail.com">I'd like to hear about it</a>.
+  Looking for business, process and finance analyst roles anywhere in Germany.<br>
+  If you work in this field, or have a process everyone complains about but nobody has measured, <a href="mailto:ramyareddy9488@gmail.com">I'd like to hear from you</a>.<br><br>
+  <a href="https://www.linkedin.com/in/ramyarajendra/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-1C2740?logo=linkedin&logoColor=white&style=for-the-badge" alt="Connect on LinkedIn" /></a>
 </p>
